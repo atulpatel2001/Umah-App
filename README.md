@@ -53,9 +53,6 @@ Follow these steps to set up and run the Umah app on your local machine:
 ## Contributions
 Feel free to contribute by submitting issues or pull requests.
 
-## License
-This project is licensed under the MIT License.
-
 ---
 Happy coding! 🎉
 
